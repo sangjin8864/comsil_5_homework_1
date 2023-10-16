@@ -4,6 +4,6 @@
 int main(void)
 {
 	printf("hello world\n");
-	printf("This is master branch!!");
+	printf("This is korea branch!!");
 	return 0;
 }
